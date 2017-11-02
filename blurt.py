@@ -6,7 +6,7 @@ import markovify
 from slackclient import SlackClient
 
 
-# starterbot's ID as an environment variable
+# Blurt's ID as an environment variable
 BOT_ID = "**********"
 
 # constants
